@@ -2,9 +2,13 @@
 This is the code for the paper [Fast GPU-Based Wiener Enhanced Filter for Despeckling SAR Data](https://www.overleaf.com/project/5c29fd8f01cd4e564c7813d6).
 
 # Team members
+
 Bilel Kanoun (bilel.kanoun@uniparthenope.it)
+
 Giampaolo Ferraioli (giampaolo.ferraioli@uniparthenope.it)
+
 Vito Pascazio (vito.pascazio@uniparthenope.it)
+
 Gilda Schirinzi (gilda.schirinzi@uniparthenope.it)
 
 # Requirments
