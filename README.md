@@ -21,7 +21,8 @@ All rights reserved. This work should only be used for nonprofit purposes.
 
 By downloading and/or using any of these files, you implicitly agree to all the terms of the license, as specified in the document LICENSE.txt (included in this directory).
 
-Please note that while using this code, cite the following reference:\n
+Please note that while using this code, cite the following reference:
+
 B. Kanoun, G. Ferraioli, V. Pascazio and G. Schirinzi, Remote Sensing, no. ,(2019). .
 
 
