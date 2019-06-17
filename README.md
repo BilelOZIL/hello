@@ -30,7 +30,7 @@ Please note that while using this code, cite the following reference:
 B. Kanoun, G. Ferraioli, V. Pascazio and G. Schirinzi, Remote Sensing, no. ,(2019). .
 
 # Funding
-The present work has been partially funded by the University of Naples Parthenope, Italy, within the framework of the ``Bando per il sostegno alla ricerca individuale per il triennio 2015-2017''.
+The present work has been partially funded by the University of Naples Parthenope, Italy, within the framework of the `Bando per il sostegno alla ricerca individuale per il triennio 2015-2017.
 
 
 
