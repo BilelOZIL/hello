@@ -11,12 +11,14 @@ Vito Pascazio (vito.pascazio@uniparthenope.it)
 
 Gilda Schirinzi (gilda.schirinzi@uniparthenope.it)
 
-# Requirments
-`requirments`
+# Prerequisits
+The code is written in `Matlab R2018b` environment with Linux Debian as operative system. 
 
-```
-matlab
-```
+The GPU used in this case requires a CUDA v9.1 and cudnn v7.1.3.
+
+%```
+%matlab
+%```
 
 # License
 Copyright (c) 2019 University of Naples "Parthenope" ('Lab-TLC').
